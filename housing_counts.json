@@ -15004,5 +15004,371 @@
       "habitaclia": 115,
       "oferta_estimada": 135
     }
+  },
+  "2026-11-18": {
+    "Álava": {
+      "idealista": 49,
+      "fotocasa": 14,
+      "pisos": 2,
+      "habitaclia": 11,
+      "oferta_estimada": 56
+    },
+    "Albacete": {
+      "idealista": 282,
+      "fotocasa": 235,
+      "pisos": 84,
+      "habitaclia": 149,
+      "oferta_estimada": 324
+    },
+    "Alicante": {
+      "idealista": 6473,
+      "fotocasa": 3229,
+      "pisos": 254,
+      "habitaclia": 2511,
+      "oferta_estimada": 7443
+    },
+    "Almería": {
+      "idealista": 1272,
+      "fotocasa": 771,
+      "pisos": 571,
+      "habitaclia": 471,
+      "oferta_estimada": 1462
+    },
+    "Ávila": {
+      "idealista": 175,
+      "fotocasa": 71,
+      "pisos": 30,
+      "habitaclia": 32,
+      "oferta_estimada": 201
+    },
+    "Badajoz": {
+      "idealista": 312,
+      "fotocasa": 328,
+      "pisos": 146,
+      "habitaclia": 216,
+      "oferta_estimada": 377
+    },
+    "Baleares": {
+      "idealista": 4527,
+      "fotocasa": 1319,
+      "pisos": 1205,
+      "habitaclia": 1140,
+      "oferta_estimada": 5206
+    },
+    "Barcelona": {
+      "idealista": 3351,
+      "fotocasa": 3591,
+      "pisos": 947,
+      "habitaclia": 3525,
+      "oferta_estimada": 4129
+    },
+    "Burgos": {
+      "idealista": 241,
+      "fotocasa": 114,
+      "pisos": 58,
+      "habitaclia": 89,
+      "oferta_estimada": 277
+    },
+    "Cáceres": {
+      "idealista": 447,
+      "fotocasa": 468,
+      "pisos": 132,
+      "habitaclia": 339,
+      "oferta_estimada": 538
+    },
+    "Cádiz": {
+      "idealista": 2679,
+      "fotocasa": 1402,
+      "pisos": 570,
+      "habitaclia": 841,
+      "oferta_estimada": 3080
+    },
+    "Castellón": {
+      "idealista": 1022,
+      "fotocasa": 639,
+      "pisos": 228,
+      "habitaclia": 432,
+      "oferta_estimada": 1175
+    },
+    "Ciudad Real": {
+      "idealista": 315,
+      "fotocasa": 167,
+      "pisos": 58,
+      "habitaclia": 92,
+      "oferta_estimada": 362
+    },
+    "Córdoba": {
+      "idealista": 602,
+      "fotocasa": 539,
+      "pisos": 162,
+      "habitaclia": 301,
+      "oferta_estimada": 692
+    },
+    "A Coruña": {
+      "idealista": 1235,
+      "fotocasa": 910,
+      "pisos": 266,
+      "habitaclia": 602,
+      "oferta_estimada": 1420
+    },
+    "Cuenca": {
+      "idealista": 127,
+      "fotocasa": 96,
+      "pisos": 31,
+      "habitaclia": 46,
+      "oferta_estimada": 146
+    },
+    "Girona": {
+      "idealista": 649,
+      "fotocasa": 425,
+      "pisos": 106,
+      "habitaclia": 422,
+      "oferta_estimada": 746
+    },
+    "Granada": {
+      "idealista": 2086,
+      "fotocasa": 1630,
+      "pisos": 810,
+      "habitaclia": 1132,
+      "oferta_estimada": 2398
+    },
+    "Guadalajara": {
+      "idealista": 92,
+      "fotocasa": 20,
+      "pisos": 9,
+      "habitaclia": 17,
+      "oferta_estimada": 105
+    },
+    "Guipúzcoa": {
+      "idealista": 301,
+      "fotocasa": 111,
+      "pisos": 37,
+      "habitaclia": 88,
+      "oferta_estimada": 346
+    },
+    "Huelva": {
+      "idealista": 809,
+      "fotocasa": 532,
+      "pisos": 243,
+      "habitaclia": 305,
+      "oferta_estimada": 930
+    },
+    "Huesca": {
+      "idealista": 184,
+      "fotocasa": 70,
+      "pisos": 40,
+      "habitaclia": 43,
+      "oferta_estimada": 211
+    },
+    "Jaén": {
+      "idealista": 343,
+      "fotocasa": 415,
+      "pisos": 101,
+      "habitaclia": 194,
+      "oferta_estimada": 477
+    },
+    "León": {
+      "idealista": 299,
+      "fotocasa": 233,
+      "pisos": 107,
+      "habitaclia": 142,
+      "oferta_estimada": 343
+    },
+    "Lleida": {
+      "idealista": 156,
+      "fotocasa": 101,
+      "pisos": 29,
+      "habitaclia": 91,
+      "oferta_estimada": 179
+    },
+    "La Rioja": {
+      "idealista": 121,
+      "fotocasa": 56,
+      "pisos": 31,
+      "habitaclia": 41,
+      "oferta_estimada": 139
+    },
+    "Lugo": {
+      "idealista": 364,
+      "fotocasa": 241,
+      "pisos": 58,
+      "habitaclia": 123,
+      "oferta_estimada": 418
+    },
+    "Madrid": {
+      "idealista": 9966,
+      "fotocasa": 8715,
+      "pisos": 3688,
+      "habitaclia": 7865,
+      "oferta_estimada": 11460
+    },
+    "Málaga": {
+      "idealista": 9536,
+      "fotocasa": 4007,
+      "pisos": 2609,
+      "habitaclia": 3229,
+      "oferta_estimada": 10966
+    },
+    "Murcia": {
+      "idealista": 2224,
+      "fotocasa": 1374,
+      "pisos": 640,
+      "habitaclia": 944,
+      "oferta_estimada": 2557
+    },
+    "Navarra": {
+      "idealista": 216,
+      "fotocasa": 64,
+      "pisos": 29,
+      "habitaclia": 38,
+      "oferta_estimada": 248
+    },
+    "Ourense": {
+      "idealista": 299,
+      "fotocasa": 298,
+      "pisos": 170,
+      "habitaclia": 234,
+      "oferta_estimada": 343
+    },
+    "Asturias": {
+      "idealista": 1226,
+      "fotocasa": 618,
+      "pisos": 248,
+      "habitaclia": 472,
+      "oferta_estimada": 1409
+    },
+    "Palencia": {
+      "idealista": 77,
+      "fotocasa": 45,
+      "pisos": 17,
+      "habitaclia": 29,
+      "oferta_estimada": 88
+    },
+    "Las Palmas": {
+      "idealista": 1664,
+      "fotocasa": 639,
+      "pisos": 502,
+      "habitaclia": 442,
+      "oferta_estimada": 1913
+    },
+    "Pontevedra": {
+      "idealista": 921,
+      "fotocasa": 559,
+      "pisos": 277,
+      "habitaclia": 353,
+      "oferta_estimada": 1059
+    },
+    "Salamanca": {
+      "idealista": 669,
+      "fotocasa": 544,
+      "pisos": 451,
+      "habitaclia": 399,
+      "oferta_estimada": 769
+    },
+    "Santa Cruz de Tenerife": {
+      "idealista": 1666,
+      "fotocasa": 801,
+      "pisos": 501,
+      "habitaclia": 558,
+      "oferta_estimada": 1915
+    },
+    "Cantabria": {
+      "idealista": 891,
+      "fotocasa": 762,
+      "pisos": 268,
+      "habitaclia": 586,
+      "oferta_estimada": 1024
+    },
+    "Segovia": {
+      "idealista": 339,
+      "fotocasa": 120,
+      "pisos": 98,
+      "habitaclia": 74,
+      "oferta_estimada": 389
+    },
+    "Sevilla": {
+      "idealista": 1867,
+      "fotocasa": 1145,
+      "pisos": 512,
+      "habitaclia": 732,
+      "oferta_estimada": 2147
+    },
+    "Soria": {
+      "idealista": 56,
+      "fotocasa": 22,
+      "pisos": 6,
+      "habitaclia": 5,
+      "oferta_estimada": 64
+    },
+    "Tarragona": {
+      "idealista": 441,
+      "fotocasa": 253,
+      "pisos": 62,
+      "habitaclia": 212,
+      "oferta_estimada": 507
+    },
+    "Teruel": {
+      "idealista": 106,
+      "fotocasa": 49,
+      "pisos": 15,
+      "habitaclia": 27,
+      "oferta_estimada": 121
+    },
+    "Toledo": {
+      "idealista": 375,
+      "fotocasa": 177,
+      "pisos": 73,
+      "habitaclia": 105,
+      "oferta_estimada": 431
+    },
+    "Valencia": {
+      "idealista": 4394,
+      "fotocasa": 3869,
+      "pisos": 1765,
+      "habitaclia": 3365,
+      "oferta_estimada": 5053
+    },
+    "Valladolid": {
+      "idealista": 271,
+      "fotocasa": 161,
+      "pisos": 65,
+      "habitaclia": 108,
+      "oferta_estimada": 311
+    },
+    "Vizcaya": {
+      "idealista": 468,
+      "fotocasa": 317,
+      "pisos": 221,
+      "habitaclia": 287,
+      "oferta_estimada": 538
+    },
+    "Zamora": {
+      "idealista": 68,
+      "fotocasa": 49,
+      "pisos": 14,
+      "habitaclia": 16,
+      "oferta_estimada": 78
+    },
+    "Zaragoza": {
+      "idealista": 530,
+      "fotocasa": 221,
+      "pisos": 103,
+      "habitaclia": 149,
+      "oferta_estimada": 609
+    },
+    "Ceuta": {
+      "idealista": 9,
+      "fotocasa": 6,
+      "pisos": 3,
+      "habitaclia": 5,
+      "oferta_estimada": 10
+    },
+    "Melilla": {
+      "idealista": 33,
+      "fotocasa": 120,
+      "pisos": 73,
+      "habitaclia": 116,
+      "oferta_estimada": 138
+    }
   }
 }
